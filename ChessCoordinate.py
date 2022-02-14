@@ -84,7 +84,3 @@ if len(coordinate) == 2 and coordinate[0] in 'abcdefgh' and coordinate[1] != '9'
     print(one_quarter(coordinate))
 else:
     print('Not Valid Data')
-
-
-
-input()
